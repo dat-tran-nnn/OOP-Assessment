@@ -21,15 +21,21 @@ First, undo the conflict, use certain tools to get a good visualization of the t
 ### 8.What does git revert do, and how can you use it?
 Git revert command can be use to undo changes to a repository's commit history. Type "git revert [branch name]"
 ### 9.What does git reset do, and how can you use it? 
-Git reset
+Git reset command moves the repo back to a previous commit. Type "git reset [soft/hard] [branch name]"
 ### 10.What is the difference between git revert and git reset?
-
+Revert is similar to undo while reset allow us to return to previous commit
 ### 11.True or False: It is okay to commit broken code to the main branch. 
-True
+False
 ### 12.True or False: A commit should only include files that are related to the change you are committing to the repo.
 True
 ### 13.Describe what is DevOps, how is it useful for game developers?
-
+DevOps is a practice that combines Development and Operations to enable collaboration and coordination. This would speed the game developing process and increase productivity
 ### 14.List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
-
+* Miro: Collaborative brainstorming for teams
+* Github: Collaborative coding for teams
+* Jira Software: Project management for teams
 ### 15.What is CI/CD and how can it be used to automate the game development process?
+CI (Continuous integration) automatically integrate code changes and updates while also detect bugs. 
+CD (Continuous Deployment) automates the delivery of updates directly to clients. Once the game dev team
+made quick fixes to the game, it could be automatically checked for errors through CI and sent to CD for
+the game to update
