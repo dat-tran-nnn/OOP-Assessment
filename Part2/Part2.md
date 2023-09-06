@@ -15,9 +15,9 @@ Data backup policy & procedure.
 ### 5.Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
 Tower GIT GUI, mergetool
 ### 6.In a merged source code file, how does Git let you know there is a conflict?
-An error will appear "A conflict in the file ... occured"
+An error will appear "A conflict in the file ... occured" and the file will include the differences between 2 branches
 ### 7.What are the steps you can take to resolve Git conflicts?
-First, undo the conflict, use certain tools to get a good visualization of the the conflict, edit change, merge
+Use certain tools to get a good visualization of the the conflict, edit change, commit
 ### 8.What does git revert do, and how can you use it?
 Git revert command can be use to undo changes to a repository's commit history. Type "git revert [branch name]"
 ### 9.What does git reset do, and how can you use it? 
