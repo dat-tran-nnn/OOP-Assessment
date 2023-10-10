@@ -1,7 +1,7 @@
 # Assessment Part 2
 
 ### 1. List three major version control for software engineering.
-Github, GitLab, Beanstalk
+AccuRev, AzureDevOps, Git
 ### 2.What are the main advantages to using Git in your software development, and how is it useful for game developers.
 Git is a distributed version control system. It records changes made to codes and enables collaboration, thus making it useful for game developers.
 ### 3.Define the following terms in relation to Git. Branch, Pull, Push, repository, working copy, merge
